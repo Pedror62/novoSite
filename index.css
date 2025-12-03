@@ -1,0 +1,6 @@
+/* src/index.css */
+@import "tailwindcss";
+
+@tailwind utilities;
+
+/* O restante dos seus estilos personalizados (se houver) vêm depois */
